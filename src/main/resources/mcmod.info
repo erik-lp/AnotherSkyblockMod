@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "anotherskyblockmod",
+        "name": "AnotherSkyblockMod",
+        "description": "Just another Skyblock mod.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [
+            "ErikLP"
+        ],
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
